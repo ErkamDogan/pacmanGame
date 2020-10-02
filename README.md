@@ -1,6 +1,6 @@
 # pacmanGame
 
- JavaFX game Pacman that is being develop for the CSE 102 Project.
+ Ghost-AI of the JavaFX game Pacman that is being develop for the CSE 102 Project.
  
  # Authors
  
