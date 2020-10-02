@@ -4,6 +4,6 @@
  
  # Authors
  
- -Gıyaseddin Tanrıkulu - @ gysddn
+ -Gıyaseddin Tanrıkulu - [gysddn] (https://github.com/gysddn)
 
- -Erkam Doğan - @ ErkamDogan
+ -Erkam Doğan -  [ErkamDogan] (https://github.com/ErkamDogan)
